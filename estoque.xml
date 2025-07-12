@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<estoque><aparelho><id>1</id><nome>Impressora</nome><marca>HP</marca><preco>520.5</preco><categoria>Periférico</categoria><deposito>B2</deposito></aparelho></estoque>
